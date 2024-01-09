@@ -25,7 +25,6 @@ vers <- '0.0.1'
 
 ## Diretórios ----
 
-raw     <- here('data', 'raw')
 treated <- here('data', 'treated')
 xlsf    <- here('planilhas',
                 'own')
