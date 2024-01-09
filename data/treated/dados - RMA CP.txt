@@ -1,0 +1,111 @@
+"data" "empresa" "demonstrativo" "categoria" "classe" "item" "descricao" "valor"
+2023-01-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 780166
+2023-01-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -515819
+2023-01-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -148871
+2023-01-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -112732
+2023-01-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -75942
+2023-01-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" 20147
+2023-01-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" 0
+2023-01-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 34893
+2023-01-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -138791
+2023-01-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" 169
+2023-02-28 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 832046
+2023-02-28 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -559799
+2023-02-28 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -128674
+2023-02-28 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -140077
+2023-02-28 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -68132
+2023-02-28 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" 39693
+2023-02-28 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" 0
+2023-02-28 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 11061
+2023-02-28 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -113459
+2023-02-28 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" 163
+2023-03-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 936400
+2023-03-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -704612
+2023-03-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -130221
+2023-03-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -119641
+2023-03-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -39452
+2023-03-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" 29147
+2023-03-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" -1528
+2023-03-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 30286
+2023-03-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -99828
+2023-03-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" 136
+2023-04-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 1009883
+2023-04-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -729999
+2023-04-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -115530
+2023-04-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -108269
+2023-04-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -59819
+2023-04-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" 42911
+2023-04-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" 0
+2023-04-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 22428
+2023-04-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -42077
+2023-04-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" 330
+2023-05-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 1015593
+2023-05-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -756814
+2023-05-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -127304
+2023-05-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -112926
+2023-05-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -77422
+2023-05-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" -209379
+2023-05-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" 0
+2023-05-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 14988
+2023-05-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -197106
+2023-05-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" -52
+2023-06-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 987374
+2023-06-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -724699
+2023-06-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -114428
+2023-06-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -124804
+2023-06-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -58919
+2023-06-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" 37241
+2023-06-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" 0
+2023-06-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 80314
+2023-06-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -69185
+2023-06-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" -36058
+2023-07-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 1034257
+2023-07-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -767471
+2023-07-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -124534
+2023-07-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -112335
+2023-07-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -85575
+2023-07-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" 43620
+2023-07-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" 0
+2023-07-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 26616
+2023-07-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -81300
+2023-07-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" 44
+2023-08-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 836062
+2023-08-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -569400
+2023-08-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -123498
+2023-08-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -119854
+2023-08-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -32035
+2023-08-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" 32506
+2023-08-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" 0
+2023-08-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 6188
+2023-08-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -108675
+2023-08-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" 10
+2023-09-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 831181
+2023-09-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -527564
+2023-09-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -122684
+2023-09-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -124685
+2023-09-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -66626
+2023-09-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" 32091
+2023-09-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" 0
+2023-09-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 7401
+2023-09-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -90316
+2023-09-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" 1
+2023-10-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 823656
+2023-10-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -513975
+2023-10-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -142095
+2023-10-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -127949
+2023-10-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -74000
+2023-10-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" 42569
+2023-10-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" 0
+2023-10-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 4188
+2023-10-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -98884
+2023-10-31 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" 56
+2023-11-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receita Líquida" "Receita Líquida" "Receita Líquida" "Receita Líquida" 928216
+2023-11-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" "Custo dos Produtos Vendidos" -632807
+2023-11-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" "Despesas Logísticas" -153809
+2023-11-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" "Despesas Comerciais" -121690
+2023-11-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" "Despesas Gerais e Administrativas" -93121
+2023-11-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" "Outras Receitas Operacionais" 61731
+2023-11-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" "Resultado de Equivalência Patrimonial" 0
+2023-11-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" "Receitas Financeiras" 27889
+2023-11-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" "Despesas Financeiras" -103961
+2023-11-30 "Grupo Petrópolis" "Demonstração dos Resultados do Exercício" "IR e CSLL" "IR e CSLL" "IR e CSLL" "IR e CSLL" 57
